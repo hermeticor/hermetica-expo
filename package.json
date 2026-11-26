@@ -1,14 +1,14 @@
 {
   "name": "@hermeticor/sdk-expo",
-  "version": "0.4.9",
+  "version": "0.4.23",
   "description": "Expo config plugin for Hermetica: push entitlements and permissions, site key in app config, Expo push token registration",
   "license": "MIT",
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hermeticacomms/hermetica-expo.git"
+    "url": "git+https://github.com/hermeticor/hermetica-expo.git"
   },
-  "homepage": "https://github.com/hermeticacomms/hermetica-expo#readme",
+  "homepage": "https://github.com/hermeticor/hermetica-expo#readme",
   "keywords": [
     "hermeticor",
     "hermetica",
